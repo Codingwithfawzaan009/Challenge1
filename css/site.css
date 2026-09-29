@@ -1,0 +1,35 @@
+#container{
+width: 450px;
+height: 750px;
+border: 1px solid;
+}
+
+.banner{
+width: 450px;
+height: 120px;
+border: 1px solid;
+}
+
+.menu{
+width: 450px;
+height: 30px;
+border: 1px solid;
+}
+
+.slider{
+width: 450opx;
+height: 150px;
+border: 1px solid;
+}
+
+.body{
+width: 450px;
+height: 350px;
+border: 1px solid;
+}
+
+.footer{
+width: 450px;
+height: 100px;
+border: 1px solid;
+}
